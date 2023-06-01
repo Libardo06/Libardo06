@@ -1,16 +1,26 @@
-### Hi there 👋
+<div id="header" align="center">
+		
+		<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+			<h1 align="center">Hi, I am Libardo López</h1>
+			<h3 align="center">Systems engineer, software developer with more than 2 years of experience. I have proven skills in performing performance tests and improvements, updating software and developing new features. I want to contribute to a dynamic and expanding company.</h3>
+		
+	</div>
 
-<!--
-**Libardo06/Libardo06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+Knowledges:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Javascript
+- Python
+- PHP
+- SQL
+
+Currently learning:
+
+- React.js
+- Node.js
+- MongoDB
+- Typescript
+- ECMAscript
+- Angular
