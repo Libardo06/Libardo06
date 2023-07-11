@@ -16,10 +16,10 @@ Knowledges and Experience:
 
 Currently learning:
 
-- React.js
-- Node.js
-- MongoDB
-- Typescript
-- ECMAscript
-- Angular
-- Express.js
+- <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" width="80px" height="50px">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="80px" height="50px">
+- <img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" width="50px" height="50px">
+- <img src="https://typescript-eslint.io/assets/files/logo-62ab572de114d03f1ec685d989f92cd6.svg" width="50px" height="50px">
+- <img src="https://raw.githubusercontent.com/github/explore/e4270e345b968ae626310bc86e339a2ae80c6ae4/topics/ecmascript/ecmascript.png" width="50px" height="50px">
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="50px" height="50px">
+- <img src="https://geekflare.com/wp-content/uploads/2023/01/expressjs.png" width="100px" height="50px">
