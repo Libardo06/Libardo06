@@ -17,13 +17,13 @@ Currently learning:
 
 Contact me:
 
-<a href="https://www.linkedin.com/in/libardo-l%C3%B3pez-046875170/">
+<a href="https://www.linkedin.com/in/libardo06/">
 <img src="https://img.freepik.com/iconos-gratis/linkedin_318-187585.jpg" width="50px" height="50px"></a>
 <a href="mailto:libardo6699@gmail.com?subject=Hola%20Libardo">
 <img src="https://img.freepik.com/iconos-gratis/gmail_318-674228.jpg" width="50px" height="50px"></a>
-<a href="https://www.facebook.com/libardo.lopez.m/">
+<a href="https://www.facebook.com/libardo.lopez6/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/2048px-Facebook_f_logo_%282019%29.svg.png" width="50px" height="50px"></a>
-<a href="https://www.instagram.com/libardo_lopez6/">
+<a href="https://www.instagram.com/libardo.lopez6/">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="50px" height="50px"></a>
 
 
