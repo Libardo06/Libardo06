@@ -28,7 +28,7 @@ Knowledges and Experience:
     <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="50px" height="50px" style="padding-top:10px;padding-right:10px;padding-left:10px;padding-bottom:10px;" alt="Angular" title="Angular"></a></td>
     <td><a href="#"><img src="https://i0.wp.com/primefaces.org/wp-content/uploads/2016/10/primeng.png?resize=250%2C250" width="50px" height="50px" style="padding-top:10px;padding-right:10px;padding-left:10px;padding-bottom:10px;" alt="PrimeNg" title="PrimeNg"></a></td>
     <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" alt="node.js" width="80px" height="50px" style="padding-top:10px;padding-right:10px;padding-left:10px;padding-bottom:10px;" alt="Node" title="Node.js"></a></td>
-    <td><a href="#"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" width="50px" height="50px" style="padding-top:10px;padding-right:10px;padding-left:10px;padding-bottom:10px;" alt="Express.js" title="Express.js"></td>
+    <td><a href="#"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" width="50px" height="50px" style="padding-top:10px;padding-right:10px;padding-left:10px;padding-bottom:10px;" alt="Express.js" title="Express.js"></a></td>
     <td></td>
     <td></td>
   </tr>
