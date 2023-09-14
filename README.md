@@ -1,6 +1,6 @@
 # Hi, I'm Libardo López M.
 
-I'm a Systems Engineer and Full Stack Developer with over 2 years of experience. I specialize in performance testing and improvement, software updates, and feature development. I'm passionate about contributing to dynamic and growing companies.
+I'm a Systems Engineer and Full Stack Developer with 3 years of experience. I specialize in performance testing and improvement, software updates, and feature development. I'm passionate about contributing to dynamic and growing companies.
 
 ---
 
