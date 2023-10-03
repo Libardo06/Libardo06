@@ -28,6 +28,8 @@ I'm a Systems Engineer and Full Stack Developer with 3 years of experience. I sp
     <td><a href="#"><img src="https://i0.wp.com/primefaces.org/wp-content/uploads/2016/10/primeng.png?resize=250%2C250" width="50px" height="50px" alt="PrimeNg" title="PrimeNg"></a></td>
     <td><a href="#"><img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="node.js" width="50px" height="50px" alt="Node" title="Node.js"></a></td>
     <td><a href="#"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" width="50px" height="50px" alt="Express.js" title="Express.js"></a></td>
+    <td><a href="#"><img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="react.js" width="70px" height="50px" alt="React" title="React.js"></a></td>
+    <td><a href="#"><img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="react.js" width="50px" height="50px" alt="SpringBoot" title="SpringBoot"></a></td>
   </tr>
 </table>
 
@@ -35,7 +37,8 @@ I'm a Systems Engineer and Full Stack Developer with 3 years of experience. I sp
 
 ## Currently Learning
 
-<a href="#"><img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="react.js" width="70px" height="50px" alt="React" title="React.js"></a>
+<a href="#"><img src="https://i.pinimg.com/originals/5c/bb/a7/5cbba74b40ec0c0ce77b3db3ec1a5e05.png" alt="react.js" width="100px" height="100px" alt="Docker" title="Docker"></a>
+<a href="#"><img src="https://d1.awsstatic.com/PAC/kuberneteslogo.eabc6359f48c8e30b7a138c18177f3fd39338e05.png" alt="react.js" width="120px" height="90px" alt="Kubernetes" title="Kubernetes"></a>
 
 ---
 
