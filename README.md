@@ -18,8 +18,8 @@ I'm a Systems Engineer and Full Stack Developer with 3 years of experience. I sp
   <tr>
     <td><a href="#"><img src="https://lineadecodigo.com/wp-content/uploads/2014/04/sql-e1633736325758.png" width="50px" height="50px" alt="SQL" title="SQL"></a></td>
     <td><a href="#"><img src="https://miro.medium.com/v2/resize:fit:512/1*doAg1_fMQKWFoub-6gwUiQ.png" width="50px" height="50px" alt="MongoDB" title="MongoDB"></a></td>
-    <td><a href="#"><img src="https://img.freepik.com/iconos-gratis/html-5_318-674234.jpg?w=2000" width="50px" height="50px"  alt="HTML" title="HTML"></a></td>
-    <td><a href="#"> <img src="https://img.freepik.com/iconos-gratis/css_318-698167.jpg" width="50px" height="50px" alt="CSS" title="CSS"></a></td>
+    <td><a href="#"><img src="https://i.pinimg.com/originals/5c/bb/a7/5cbba74b40ec0c0ce77b3db3ec1a5e05.png" alt="react.js" width="50px" height="60px" alt="Docker" title="Docker"></a></td>
+    <td><a href="#"> <img src="https://d1.awsstatic.com/PAC/kuberneteslogo.eabc6359f48c8e30b7a138c18177f3fd39338e05.png" alt="react.js" width="60px" height="50px" alt="Kubernetes" title="Kubernetes"></a></td>
     <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" width="50px" height="50px" alt="Javascript" title="Javascript"></a></td>
     <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="50px" height="50px" alt="Typescript" title="Typescript"></a></td>
   </tr>
@@ -33,12 +33,6 @@ I'm a Systems Engineer and Full Stack Developer with 3 years of experience. I sp
   </tr>
 </table>
 
----
-
-## Currently Learning
-
-<a href="#"><img src="https://i.pinimg.com/originals/5c/bb/a7/5cbba74b40ec0c0ce77b3db3ec1a5e05.png" alt="react.js" width="100px" height="100px" alt="Docker" title="Docker"></a>
-<a href="#"><img src="https://d1.awsstatic.com/PAC/kuberneteslogo.eabc6359f48c8e30b7a138c18177f3fd39338e05.png" alt="react.js" width="120px" height="90px" alt="Kubernetes" title="Kubernetes"></a>
 
 ---
 
