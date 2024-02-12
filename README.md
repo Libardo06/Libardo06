@@ -1,6 +1,6 @@
 # Hi, I'm Libardo López M.
 
-I'm a Systems Engineer and Full Stack Developer with 3 years of experience. I specialize in performance testing and improvement, software updates, and feature development. I'm passionate about contributing to dynamic and growing companies.
+I'm a Systems Engineer and Full Stack Developer with 4 years of experience. I specialize in performance testing and improvement, software updates, and feature development. I'm passionate about contributing to dynamic and growing companies.
 
 ---
 
@@ -29,9 +29,14 @@ I'm a Systems Engineer and Full Stack Developer with 3 years of experience. I sp
     <td><a href="#"><img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="node.js" width="50px" height="50px" alt="Node" title="Node.js"></a></td>
     <td><a href="#"><img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png" width="50px" height="50px" alt="Express.js" title="Express.js"></a></td>
     <td><a href="#"><img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="react.js" width="70px" height="50px" alt="React" title="React.js"></a></td>
-    <td><a href="#"><img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" alt="react.js" width="50px" height="50px" alt="SpringBoot" title="SpringBoot"></a></td>
+    <td><a href="#"><img src="https://dz2cdn1.dzone.com/storage/temp/12434118-spring-boot-logo.png" width="50px" height="50px" alt="SpringBoot" title="SpringBoot"></a></td>
   </tr>
 </table>
+
+---
+## Current learning
+
+<a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" width="50px" height="70px" alt="C#" title="C#"></a><a href="#"><img src="https://www.pulumi.com/blog/dotnet-preview/meta.png" width="100px" height="70px" alt=".NET" title=".NET"></a>
 
 
 ---
@@ -50,5 +55,7 @@ I'm a Systems Engineer and Full Stack Developer with 3 years of experience. I sp
 <a href="https://www.instagram.com/libardo.lopez6/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" width="50px" height="50px"></a>
 
+## My Website
+<a href="https://libardolopez.tech/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/840/840055.png" width="80px" height="60px" alt=".NET" title=".NET"></a>
 
 
